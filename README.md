@@ -6,3 +6,5 @@
  
 # To Repack
  Just drag & drop folders Icon
+ 
+ Credits: [oerweo](https://forum.ragezone.com/members/oerweo.2000426574/)
